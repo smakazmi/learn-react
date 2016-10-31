@@ -1,0 +1,7 @@
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/"; 
+@import "../../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: url("../img/bg.png"); 
+}
